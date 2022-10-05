@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.back-con{
+    background-image: url('../download (1).jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.title{
+font-weight: 800;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}        
+.elements, .info{
+/* background: linear-gradient(360deg, #201717, transparent) !important; */
+font-weight: 700;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+
+.info{
+/* background: linear-gradient(360deg, #201717, transparent) !important; */
+font-weight: 700;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
